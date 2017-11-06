@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kotlin Calculator</string>
+    <string name="operand_1">Operand 1</string>
+    <string name="operand_2">Operand 2</string>
+    <string name="add">Addition</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">Multiply</string>
+    <string name="division">Division</string>
+    <string name="clear">Clear</string>
+    <string name="_00">00</string>
+</resources>
